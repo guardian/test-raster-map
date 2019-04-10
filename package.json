@@ -50,10 +50,13 @@
     "webpack-stream": "5.0.0"
   },
   "dependencies": {
+    "@mapbox/corslite": "0.0.7",
     "core-js": "^2.6.2",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.6.1",
     "gulp-sass": "^4.0.2",
+    "leaflet": "^1.4.0",
+    "leaflet-utfgrid": "^0.3.0",
     "lodash": "^4.17.11",
     "mustache": "^2.3.0",
     "natives": "^1.1.6",

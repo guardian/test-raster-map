@@ -1,6 +1,11 @@
 @import "mq";
 @import "fonts";
 @import "palette";
+@import "map";
+@import "leaflet";
+
+
+
 // Uncomment for embeds
 //@import "embed";
 // Uncomment for full screen (including immersive article main media)
@@ -8,4 +13,8 @@
 .element-atom,
 .interactive-atom {
     margin: 0 !important;
+}
+
+.interactive {
+	max-width: 1200px;
 }
